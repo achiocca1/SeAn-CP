@@ -1,6 +1,6 @@
 # SeAn-CP
 
-Automatic and optimized calculation of critical plane parameters by means of a semi-analytical formulation.
+This repository contains the implementation of the SeAn-CP method, a novel semi-analytical algorithm designed to efficiently calculate critical plane factors in fatigue assessment. The SeAn-CP method integrates seamlessly with finite element analysis, handling complex geometries, elastic-plastic material behavior, and non-proportional loading conditions. It offers a time-efficient alternative to the traditional plane scanning method, delivering accurate results with significantly reduced computational effort. This tool is ideal for researchers and engineers dealing with fatigue analysis in real-world scenarios.
 
 The mathematical procedure is described in the article:
 
