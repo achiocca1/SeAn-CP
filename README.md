@@ -1,10 +1,10 @@
 # SeAn-CP
 
-Closed form solution of critical plane factor of Fatemi-Socie in its general formulation. The algorithm works under the hypotheses of linear-elasticity and proportional loading.
+Automatic and optimized calculation of critical plane parameters by means of a semi-analytical formulation.
 
 The mathematical procedure is described in the article:
 
-**A. Chiocca, M. Sgamma, F. Frendo, "Closed-form solution for the Fatemi-Socie extended parameter in case of linear elasticity and proportional loading",  Fatigue & Fracture of Engineering Materials & Structures , 2023, doi.org/10.1111/ffe.14153.**
+**M. Sgamma, A. Chiocca, F. Frendo, "Rapid and accurate semi-analytical method for the fatigue assessment with critical plane methods under non-proportional loading and material plasticity",  International Journal of Fatigue , 2024, doi.org/10.1016/j.ijfatigue.2024.108191.**
 
 Bug reports and suggestions are welcome! 
 This software is regularly maintained.
